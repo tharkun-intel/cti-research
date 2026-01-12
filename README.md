@@ -14,7 +14,7 @@
 
 ## 📜 About The Project
 
-Welcome to the digital forge. **0xTharkûn** is a personal research archive dedicated to Cyber Threat Intelligence (CTI), threat hunting, and infrastructure tracking.
+Welcome to the digital forge. **0xTharkûn** is a personal research archive dedicated to Cyber Threat Intelligence (CTI), Detection Engineering & Threat Hunting (DE&TH).
 
 This repository serves as the backbone for my blog, where I document my analysis of emerging threats, dissect malicious artifacts, share detection rules and track adversary infrastructure.
 
